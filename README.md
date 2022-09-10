@@ -1,4 +1,4 @@
-# Headless Commerce Demo
+# Jhumki Demo
 
 ![Storefront](/assets/images/storefront.png "Storefront")
 
